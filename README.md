@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=htmlh4cker&color=blueviolet)
+
 [![htmlh4ckers GitHub stats](https://github-readme-stats.vercel.app/api?username=htmlh4cker)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
