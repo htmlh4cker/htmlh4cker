@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![htmlh4ckers GitHub stats](https://github-readme-stats.vercel.app/api?username=htmlh4cker)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **htmlh4cker/htmlh4cker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
